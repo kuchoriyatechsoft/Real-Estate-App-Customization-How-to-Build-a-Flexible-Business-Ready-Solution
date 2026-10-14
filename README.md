@@ -1,6 +1,6 @@
 
 # Smart Real Estate App Customization: Features, Workflows & Benefits
-[Smart real estate app customization](https://kuchoriya-software.s3.ap-south-1.amazonaws.com/Image/Real_Estate_App_Customization_How_to_Build_a_Flexi_00245948-ab4b-48dd-b922-e0366a21b5d2.avif)
+![Smart real estate app customization](https://kuchoriya-software.s3.ap-south-1.amazonaws.com/Image/Real_Estate_App_Customization_How_to_Build_a_Flexi_00245948-ab4b-48dd-b922-e0366a21b5d2.avif)
 The real estate industry is adopting new technologies, but disconnected tools can still slow down agents, brokers, and property managers.
 
 [Smart real estate app customization](https://kuchoriyatechsoft.com/real-estate-solutions) helps businesses bring listings, lead management, workflows, and reporting into one application tailored to their needs.
